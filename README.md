@@ -17,4 +17,4 @@ Features:
 – Auto-applying
 – Automated pre-screen interview
 – Manage applications
-– Control status from incognito to public
+– Leverage statuses from incognito to public
