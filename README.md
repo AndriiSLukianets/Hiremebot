@@ -1,4 +1,4 @@
-# Hiremebot
+# Kent Careers
 Hiring assistant which searches for a job, applies and goes through a pre-screen interview on your behalf.
 
 How it works:
